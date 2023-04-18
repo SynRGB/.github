@@ -7,7 +7,7 @@
         	<img src="https://github.com/SynRGB/BiliBili-EasyCopy/raw/main/%23README/icon/256.png" width="30%"/>
         </td>
         <td>
-        	<img src="https://github.com/SynRGB/BiliBili-PassInteractiveVideo/raw/main/%23README/icon/256.png" width="25%"/>
+        	<img src="https://github.com/SynRGB/BiliBili-PassInteractiveVideo/raw/main/%23README/icon/256.png" width="30%"/>
         </td>
     </tr>
     <tr>
@@ -40,7 +40,7 @@
         	<img src="https://github.com/SynRGB/Pixiv-ForceSafeMode/raw/main/%23README/icon/256.png" width="30%"/>
         </td>
         <td>
-        	<img src="https://github.com/SynRGB/Pixiv-QuickBookmark/raw/main/%23README/icon/256.png" width="25%"/>
+        	<img src="https://github.com/SynRGB/Pixiv-QuickBookmark/raw/main/%23README/icon/256.png" width="30%"/>
         </td>
     </tr>
     <tr>
