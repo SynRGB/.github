@@ -58,7 +58,7 @@
             <a href='https://greasyfork.org/zh-CN/scripts/464461-bmtranslator-uimodify'><img src="https://img.shields.io/badge/-GreasyFork-670000?style=flat&amp;logo=tampermonkey&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a>
         </td>
         <td>
-        	<h4>Ximalaya-UIModify <code>v1.1</code></h4>
+        	<h4>Ximalaya-UIModify <code>v1.2</code></h4>
             <p><b>Ximalaya-综合界面优化</b></p>
             <p>[ 简体中文 ]</p>
             <a href='https://greasyfork.org/zh-CN/scripts/464548-ximalaya-uimodify'><img src="https://img.shields.io/badge/-GreasyFork-670000?style=flat&amp;logo=tampermonkey&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a>
