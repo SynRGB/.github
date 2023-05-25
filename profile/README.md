@@ -52,7 +52,7 @@
     </tr>
     <tr>
         <td>
-        	<h4>BMTranslator-UIModify <code>v1.0</code></h4>
+        	<h4>BMTranslator-UIModify <code>v1.1</code></h4>
             <p><b>BMTranslator-综合界面优化</b></p>
             <p>[ English | 简体中文 ]</p>
             <a href='https://greasyfork.org/zh-CN/scripts/464461-bmtranslator-uimodify'><img src="https://img.shields.io/badge/-GreasyFork-670000?style=flat&amp;logo=tampermonkey&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a>
