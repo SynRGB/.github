@@ -1,6 +1,34 @@
 <table>
     <tr>
         <td>
+        	<a href='https://github.com/SynRGB/BiliBili-TextSearchList'>
+        		<img src="https://github.com/SynRGB/BiliBili-TextSearchList/raw/main/%23README/icon/256.png" width="50%"/>
+            </a>
+        </td>
+        <td>
+        	<a href='https://github.com/SynRGB/BiliBili-TextFavList'>
+        		<img src="https://github.com/SynRGB/BiliBili-TextFavList/raw/main/%23README/icon/256.png" width="50%"/>
+            </a>
+        </td>
+    </tr>
+    <tr>
+        <td>
+        	<h4>BiliBili-TextSearchList <code>v1.0</code></h4>
+            <p><b>BiliBili-文字搜索列表</b></p>
+            <p>[ 简体中文 ]</p>
+            <p>感谢闲鱼买家ZEP的有偿定制</p>
+            <a href='https://greasyfork.org/en/scripts/473213-bilibili-textsearchlist'><img src="https://img.shields.io/badge/-GreasyFork-670000?style=flat&amp;logo=tampermonkey&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a> <a href='https://greasyfork.org/scripts/473213-bilibili-textsearchlist/code/BiliBili-TextSearchList.user.js'><img src="https://img.shields.io/badge/-📂-670000?style=flat&amp;logo=download&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a>
+        </td>
+        <td>
+        	<h4>BiliBili-TextFavList <code>v1.0</code></h4>
+            <p><b>BiliBili-文字收藏夹列表</b></p>
+            <p>[ 简体中文 ]</p>
+            <p>感谢闲鱼买家ZEP的有偿定制</p>
+	    	<a href='https://greasyfork.org/zh-CN/scripts/473215-bilibili-textfavlist'><img src="https://img.shields.io/badge/-GreasyFork-670000?style=flat&amp;logo=tampermonkey&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a> <a href='https://greasyfork.org/scripts/473215-bilibili-textfavlist/code/BiliBili-TextFavList.user.js'><img src="https://img.shields.io/badge/-📂-670000?style=flat&amp;logo=download&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a>
+        </td>
+    </tr>
+    <tr>
+        <td>
         	<a href='https://github.com/SynRGB/AcFun-ScrollVolume'>
         		<img src="https://github.com/SynRGB/AcFun-ScrollVolume/raw/main/%23README/icon/256.png" width="50%"/>
             </a>
@@ -103,5 +131,4 @@
         	<a href='https://openuserjs.org/scripts/TitanRGB/Pixiv-QuickBookmark'><img src="https://img.shields.io/badge/-OpenUserJS-004796?style=flat&amp;logo=tampermonkey&amp;logoColor=white" referrerpolicy="no-referrer" alt="OpenUserJS"></a> <a href='https://openuserjs.org/install/TitanRGB/Pixiv-QuickBookmark.user.js'><img src="https://img.shields.io/badge/-📂-004796?style=flat&amp;logo=download&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a>
         </td>
     </tr>
-</tbody>
 </table>
