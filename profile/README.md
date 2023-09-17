@@ -77,6 +77,11 @@
         		<img src="https://github.com/SynRGB/Ximalaya-UIModify/raw/main/%23README/icon/256.png" width="50%"/>
             </a>
         </td>
+	<td>
+        	<a href='https://github.com/SynRGB/Pixiv-JoystickControl'>
+        		<img src="https://github.com/SynRGB/Pixiv-JoystickControl/raw/main/%23README/icon/256.png" width="50%"/>
+            </a>
+        </td>
     </tr>
     <tr>
         <td>
@@ -90,6 +95,12 @@
             <p><b>Ximalaya-综合界面优化</b></p>
             <p>[ 简体中文 ]</p>
             <a href='https://greasyfork.org/zh-CN/scripts/464548-ximalaya-uimodify'><img src="https://img.shields.io/badge/-GreasyFork-670000?style=flat&amp;logo=tampermonkey&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a> <a href='https://greasyfork.org/scripts/464548-ximalaya-uimodify/code/Ximalaya-UIModify.user.js'><img src="https://img.shields.io/badge/-📂-670000?style=flat&amp;logo=download&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a>
+        </td>
+	<td>
+            <h4>Pixiv-JoystickControl <code>v1.1</code></h4>
+            <p><b>Pixiv-摇杆控制</b></p>
+            <p>[ English | 简体中文 | 日本語 ]</p>
+            <a href='https://greasyfork.org/zh-CN/scripts/475490-pixiv-joystickcontrol'><img src="https://img.shields.io/badge/-GreasyFork-670000?style=flat&amp;logo=tampermonkey&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a> <a href='https://greasyfork.org/scripts/475490-pixiv-joystickcontrol/code/Pixiv-DeleteNoNeed.user.js'><img src="https://img.shields.io/badge/-📂-670000?style=flat&amp;logo=download&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a>
         </td>
     </tr>
     <tr>
