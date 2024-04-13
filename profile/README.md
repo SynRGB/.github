@@ -14,18 +14,18 @@
     <tr>
         <td>
         	<h4>BiliBili-TextSearchList <code>v1.0</code></h4>
+            <p><b><i><code>感谢闲鱼买家ZEP的有偿定制</code></i></b></p>
             <p><b><i><code>Archived: no longer maintained</code></i></b></p>
             <p><b>BiliBili-文字搜索列表</b></p>
             <p>[ 简体中文 ]</p>
-            <p>感谢闲鱼买家ZEP的有偿定制</p>
             <a href='https://greasyfork.org/en/scripts/473213-bilibili-textsearchlist'><img src="https://img.shields.io/badge/-GreasyFork-670000?style=flat&amp;logo=tampermonkey&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a> <a href='https://greasyfork.org/scripts/473213-bilibili-textsearchlist/code/BiliBili-TextSearchList.user.js'><img src="https://img.shields.io/badge/-📂-670000?style=flat&amp;logo=download&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a>
         </td>
         <td>
         	<h4>BiliBili-TextFavList <code>v1.0</code></h4>
+            <p><b><i><code>感谢闲鱼买家ZEP的有偿定制</code></i></b></p>
             <p><b><i><code>Archived: no longer maintained</code></i></b></p>
             <p><b>BiliBili-文字收藏夹列表</b></p>
             <p>[ 简体中文 ]</p>
-            <p>感谢闲鱼买家ZEP的有偿定制</p>
 	    	<a href='https://greasyfork.org/zh-CN/scripts/473215-bilibili-textfavlist'><img src="https://img.shields.io/badge/-GreasyFork-670000?style=flat&amp;logo=tampermonkey&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a> <a href='https://greasyfork.org/scripts/473215-bilibili-textfavlist/code/BiliBili-TextFavList.user.js'><img src="https://img.shields.io/badge/-📂-670000?style=flat&amp;logo=download&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a>
         </td>
     </tr>
