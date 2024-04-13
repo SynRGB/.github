@@ -13,14 +13,16 @@
     </tr>
     <tr>
         <td>
-        	<h4>BiliBili-TextSearchList <code>Archived</code> <code>v1.0</code></h4>
+        	<h4>BiliBili-TextSearchList <code>v1.0</code></h4>
+            <p><b><i><code>Archived: no longer maintained</code></i></b></p>
             <p><b>BiliBili-文字搜索列表</b></p>
             <p>[ 简体中文 ]</p>
             <p>感谢闲鱼买家ZEP的有偿定制</p>
             <a href='https://greasyfork.org/en/scripts/473213-bilibili-textsearchlist'><img src="https://img.shields.io/badge/-GreasyFork-670000?style=flat&amp;logo=tampermonkey&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a> <a href='https://greasyfork.org/scripts/473213-bilibili-textsearchlist/code/BiliBili-TextSearchList.user.js'><img src="https://img.shields.io/badge/-📂-670000?style=flat&amp;logo=download&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a>
         </td>
         <td>
-        	<h4>BiliBili-TextFavList <code>Archived</code> <code>v1.0</code></h4>
+        	<h4>BiliBili-TextFavList <code>v1.0</code></h4>
+            <p><b><i><code>Archived: no longer maintained</code></i></b></p>
             <p><b>BiliBili-文字收藏夹列表</b></p>
             <p>[ 简体中文 ]</p>
             <p>感谢闲鱼买家ZEP的有偿定制</p>
@@ -59,7 +61,8 @@
 	    	<a href='https://greasyfork.org/zh-CN/scripts/464155-bilibili-easycopy'><img src="https://img.shields.io/badge/-GreasyFork-670000?style=flat&amp;logo=tampermonkey&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a> <a href='https://greasyfork.org/scripts/464155-bilibili-easycopy/code/BiliBili-EasyCopy.user.js'><img src="https://img.shields.io/badge/-📂-670000?style=flat&amp;logo=download&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a>
         </td>
         <td>
-        	<h4>BiliBili-PassInteractiveVideo <code>Archived</code> <code>v1.1</code></h4>
+        	<h4>BiliBili-PassInteractiveVideo <code>v1.1</code></h4>
+            <p><b><i><code>Archived: no longer maintained</code></i></b></p>
             <p><b>BiliBili-跳过互动视频</b></p>
             <p>[ 简体中文 ]</p>
 	    	<a href='https://greasyfork.org/zh-CN/scripts/453734-bilibili-passinteractivevideo?locale_override=1'><img src="https://img.shields.io/badge/-GreasyFork-670000?style=flat&amp;logo=tampermonkey&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a> <a href='https://greasyfork.org/scripts/453734-bilibili-passinteractivevideo/code/BiliBili-PassInteractiveVideo.user.js'><img src="https://img.shields.io/badge/-📂-670000?style=flat&amp;logo=download&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a>
@@ -85,19 +88,22 @@
     </tr>
     <tr>
         <td>
-        	<h4>BMTranslator-UIModify <code>Archived</code> <code>v1.1</code></h4>
+        	<h4>BMTranslator-UIModify <code>v1.1</code></h4>
+            <p><b><i><code>Archived: no longer maintained</code></i></b></p>
             <p><b>BMTranslator-综合界面优化</b></p>
             <p>[ English | 简体中文 ]</p>
             <a href='https://greasyfork.org/zh-CN/scripts/464461-bmtranslator-uimodify'><img src="https://img.shields.io/badge/-GreasyFork-670000?style=flat&amp;logo=tampermonkey&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a> <a href='https://greasyfork.org/scripts/464461-bmtranslator-uimodify/code/BMTranslator-UIModify.user.js'><img src="https://img.shields.io/badge/-📂-670000?style=flat&amp;logo=download&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a>
         </td>
         <td>
-        	<h4>Ximalaya-UIModify <code>Archived</code> <code>v2.0</code></h4>
+        	<h4>Ximalaya-UIModify <code>v2.0</code></h4>
+            <p><b><i><code>Archived: no longer maintained</code></i></b></p>
             <p><b>Ximalaya-综合界面优化</b></p>
             <p>[ 简体中文 ]</p>
             <a href='https://greasyfork.org/zh-CN/scripts/464548-ximalaya-uimodify'><img src="https://img.shields.io/badge/-GreasyFork-670000?style=flat&amp;logo=tampermonkey&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a> <a href='https://greasyfork.org/scripts/464548-ximalaya-uimodify/code/Ximalaya-UIModify.user.js'><img src="https://img.shields.io/badge/-📂-670000?style=flat&amp;logo=download&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a>
         </td>
 	<td>
-            <h4>Pixiv-JoystickControl <code>Archived</code> <code>v1.1</code></h4>
+            <h4>Pixiv-JoystickControl <code>v1.1</code></h4>
+            <p><b><i><code>Archived: no longer maintained</code></i></b></p>
             <p><b>Pixiv-摇杆控制</b></p>
             <p>[ English | 简体中文 | 日本語 ]</p>
             <a href='https://greasyfork.org/zh-CN/scripts/475490-pixiv-joystickcontrol'><img src="https://img.shields.io/badge/-GreasyFork-670000?style=flat&amp;logo=tampermonkey&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a> <a href='https://greasyfork.org/scripts/475490-pixiv-joystickcontrol/code/Pixiv-DeleteNoNeed.user.js'><img src="https://img.shields.io/badge/-📂-670000?style=flat&amp;logo=download&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a>
@@ -128,7 +134,8 @@
             <a href='https://greasyfork.org/zh-CN/scripts/453775-pixiv-deletenoneed'><img src="https://img.shields.io/badge/-GreasyFork-670000?style=flat&amp;logo=tampermonkey&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a> <a href='https://greasyfork.org/scripts/453775-pixiv-deletenoneed/code/Pixiv-DeleteNoNeed.user.js'><img src="https://img.shields.io/badge/-📂-670000?style=flat&amp;logo=download&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a>
         </td>
         <td>
-	    <h4>Pixiv-ForceSafeMode <code>Archived</code> <code>v1.6</code></h4>
+	    <h4>Pixiv-ForceSafeMode <code>v1.6</code></h4>
+            <p><b><i><code>Archived: no longer maintained</code></i></b></p>
             <p><b>Pixiv-强制和谐模式</b></p>
             <p>[ English | 简体中文 | 日本語 ]</p>
             <a href='https://greasyfork.org/zh-CN/scripts/453648-pixiv-forcesafemode'><img src="https://img.shields.io/badge/-GreasyFork-670000?style=flat&amp;logo=tampermonkey&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a> <a href='https://greasyfork.org/scripts/453648-pixiv-forcesafemode/code/Pixiv-ForceSafeMode.user.js'><img src="https://img.shields.io/badge/-📂-670000?style=flat&amp;logo=download&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a>
