@@ -55,7 +55,7 @@
             <a href='https://openuserjs.org/scripts/TitanRGB/AcFun-ScrollVolume'><img src="https://img.shields.io/badge/-OpenUserJS-004796?style=flat&amp;logo=tampermonkey&amp;logoColor=white" referrerpolicy="no-referrer" alt="OpenUserJS"></a> <a href='https://openuserjs.org/install/TitanRGB/AcFun-ScrollVolume.user.js'><img src="https://img.shields.io/badge/-📂-004796?style=flat&amp;logo=download&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a>
         </td>
         <td>
-        	<h4>BiliBili-EasyCopy <code>v1.0</code></h4>
+        	<h4>BiliBili-EasyCopy <code>v1.1</code></h4>
             <p><b>BiliBili-去文本复制水印</b></p>
             <p>[ 简体中文 ]</p>
 	    	<a href='https://greasyfork.org/zh-CN/scripts/464155-bilibili-easycopy'><img src="https://img.shields.io/badge/-GreasyFork-670000?style=flat&amp;logo=tampermonkey&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a> <a href='https://greasyfork.org/scripts/464155-bilibili-easycopy/code/BiliBili-EasyCopy.user.js'><img src="https://img.shields.io/badge/-📂-670000?style=flat&amp;logo=download&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a>
