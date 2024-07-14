@@ -10,6 +10,11 @@
         		<img src="https://github.com/SynRGB/BiliBili-TextFavList/raw/main/%23README/icon/256.png" width="50%"/>
             </a>
         </td>
+        <td>
+        	<a href='https://github.com/SynRGB/HqPCB-MMImpedance'>
+        		<img src="https://github.com/SynRGB/HqPCB-MMImpedance/raw/main/%23README/icon/256.png" width="50%"/>
+            </a>
+        </td>
     </tr>
     <tr>
         <td>
@@ -27,6 +32,12 @@
             <p><b>BiliBili-文字收藏夹列表</b></p>
             <p>[ 简体中文 ]</p>
 	    	<a href='https://greasyfork.org/zh-CN/scripts/473215-bilibili-textfavlist'><img src="https://img.shields.io/badge/-GreasyFork-670000?style=flat&amp;logo=tampermonkey&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a> <a href='https://greasyfork.org/scripts/473215-bilibili-textfavlist/code/BiliBili-TextFavList.user.js'><img src="https://img.shields.io/badge/-📂-670000?style=flat&amp;logo=download&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a>
+        </td>
+        <td>
+        	<h4>HqPCB-MMImpedance <code>v1.0</code></h4>
+            <p><b>HqPCB-毫米计算阻抗</b></p>
+            <p>[ 简体中文 ]</p>
+	    	<a href='https://greasyfork.org/zh-CN/scripts/500629-hqpcb-mmimpedance'><img src="https://img.shields.io/badge/-GreasyFork-670000?style=flat&amp;logo=tampermonkey&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a> <a href='https://update.greasyfork.org/scripts/500629/HqPCB-MMImpedance.user.js'><img src="https://img.shields.io/badge/-📂-670000?style=flat&amp;logo=download&amp;logoColor=white" referrerpolicy="no-referrer" alt="GreasyFork"></a>
         </td>
     </tr>
     <tr>
